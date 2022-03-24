@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://belajaar.github.io"
 title = "Hugo Bootstrap"
 theme = "hugo-theme-bootstrap" # install via git submodule
 # theme = "github.com/razonyang/hugo-theme-bootstrap" # install via hugo module
@@ -33,7 +33,7 @@ pygmentsUseClasses = true
 [mediaTypes]
   [mediaTypes."application/manifest+json"]
     suffixes = ["json"]
-  
+
 [outputFormats]
   [outputFormats.MANIFEST]
     name = "manifest"
